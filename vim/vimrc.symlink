@@ -91,7 +91,8 @@ if has("autocmd")
 endif
 
 " Pathogen
-call pathogen#infect()
+source ~/.dotfiles/vim/bundle/vim-pathogen/autoload/pathogen.vim
+execute pathogen#infect('~/.dotfiles/vim/bundle/{}')
 
 " command-t settings
 let g:CommandTTraverseSCM='pwd'
