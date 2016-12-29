@@ -2,7 +2,6 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
 tap 'homebrew/completions'
-tap 'caskroom/cask'
 
 brew 'coreutils'
 brew 'go'
