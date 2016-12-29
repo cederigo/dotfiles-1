@@ -1,0 +1,1 @@
+compdef g='git' # For completion to work
