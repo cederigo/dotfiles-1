@@ -1,4 +1,4 @@
-if test ! $(which spoof)
+if test ! $(which http-server)
 then
-  sudo npm install spoof -g
+  sudo npm install http-server -g
 fi
