@@ -1,6 +1,7 @@
 cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
+tap 'homebrew/completions'
 tap 'caskroom/cask'
 
 brew 'coreutils'
@@ -12,6 +13,7 @@ brew 'unrar'
 brew 'wget'
 brew 'node@6'
 brew 'z'
+brew 'docker-completion'
 
 cask '1password'
 cask 'firefox'
