@@ -19,3 +19,6 @@ brew update
 # Install software
 echo "› $ZSH/script/install"
 $ZSH/script/install
+
+# Uninstall unused and old versions of packages
+brew cleanup
