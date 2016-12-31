@@ -1,23 +1,23 @@
 // Place your key bindings in this file to overwrite the defaults
 [
-    {
-        "key": "shift+cmd+]",
-        "command": "workbench.action.nextEditor"
-    },
-    {
-        "key": "shift+cmd+[",
-        "command": "workbench.action.previousEditor"
-    },
-    {
-        "key": "cmd+-",
-        "command": "workbench.action.navigateBack"
-    },
-    {
-        "key": "cmd+y",
-        "command": "workbench.action.terminal.toggleTerminal"
-    },
-    {
-        "key": "shift+cmd+-",
-        "command": "workbench.action.navigateForward"
-    }
+  {
+    "key": "shift+cmd+]",
+    "command": "workbench.action.nextEditor"
+  },
+  {
+    "key": "shift+cmd+[",
+    "command": "workbench.action.previousEditor"
+  },
+  {
+    "key": "cmd+-",
+    "command": "workbench.action.navigateBack"
+  },
+  {
+    "key": "cmd+y",
+    "command": "workbench.action.terminal.toggleTerminal"
+  },
+  {
+    "key": "shift+cmd+-",
+    "command": "workbench.action.navigateForward"
+  }
 ]
