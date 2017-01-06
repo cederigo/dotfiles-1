@@ -13,6 +13,8 @@ brew 'node@6'
 brew 'z'
 brew 'docker-completion'
 brew 'awscli'
+brew 'aws-elasticbeanstalk'
+brew 'mysql'
 
 cask '1password'
 cask 'firefox'
