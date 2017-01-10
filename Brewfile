@@ -15,6 +15,7 @@ brew 'docker-completion'
 brew 'awscli'
 brew 'aws-elasticbeanstalk'
 brew 'mysql'
+brew 'mongodb'
 
 cask '1password'
 cask 'firefox'

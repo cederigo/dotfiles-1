@@ -26,8 +26,8 @@ defaults write NSGlobalDomain KeyRepeat -int 1
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true
 
-# Run the screensaver if we're in the bottom-left hot corner.
-defaults write com.apple.dock wvous-bl-corner -int 5
+# Put display to sleep if we're in the bottom-left hot corner.
+defaults write com.apple.dock wvous-bl-corner -int 10
 defaults write com.apple.dock wvous-bl-modifier -int 0
 
 # Hide Safari's bookmark bar.
