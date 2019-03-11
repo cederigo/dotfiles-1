@@ -1,7 +1,6 @@
 cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
-tap 'homebrew/completions'
 
 brew 'coreutils'
 brew 'go'
@@ -15,7 +14,6 @@ brew 'docker-completion'
 brew 'awscli'
 brew 'aws-elasticbeanstalk'
 brew 'mysql'
-brew 'mongodb'
 brew 'heroku'
 
 cask '1password'
@@ -29,6 +27,5 @@ cask 'vlc'
 cask 'docker'
 cask 'macvim'
 cask 'iterm2'
-cask 'mysqlworkbench'
 cask 'java8' 
 cask 'java6' # Crappy RC Heli software needs it
