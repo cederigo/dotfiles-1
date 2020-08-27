@@ -1,1 +1,0 @@
-alias sdml="java -jar ${SDM_HOME}/bazel-bin/sdm/logistics/client/cli/sdm-cli_deploy.jar -ssl_key ${SDM_AUTH}"

@@ -9,6 +9,8 @@ make
 cd -
 
 # Centralized backups, swapfiles and undo history
-mkdir -p ~/.vim/{backups,swaps,undo}
+mkdir -p ~/.vim/backups
+mkdir -p ~/.vim/swaps
+mkdir -p ~/.vim/undo
 
 exit 0
